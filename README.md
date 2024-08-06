@@ -29,7 +29,7 @@ git clone https://github.com/ManrajM/Wallpapers
 cd Wallpapers
 ```
 
-Alternatively press on the download button
+Alternatively press on the green code button in the upper right hand corner of the page, after clicking on it press download as zip. This should start a download of all the wallpapers available, once finished decompress/extract the files!
 
 <h3>2. Single Wallpapers</h3>
 
