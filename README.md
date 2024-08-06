@@ -16,8 +16,21 @@ including but not limited too:
 <li>unsplash</li>
 
 <h3>1. Cloning all the wallpapers</h3>
-To clone the every wallpaper enter the following command into your terminal (if you have git installed)
+To clone the every wallpaper enter the following command into your terminal
 
  ```bash
+#installing git on linux
+sudo pacman -Sy git
+
+#downloads Wallpapers folder
 git clone https://github.com/ManrajM/Wallpapers
+
+#goes into directory once downloaded
+cd Wallpapers
 ```
+
+Alternatively press on the download button
+
+<h3>2. Single Wallpapers</h3>
+
+To download one wallpaper at a time, find the one you like. Right click, save image or set as background. It's that simple.
