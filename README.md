@@ -23,7 +23,7 @@ To clone the every wallpaper enter the following command into your terminal
 sudo pacman -Sy git
 
 #downloads Wallpapers folder
-git clone https://github.com/ManrajM/wallpapers
+git clone https://github.com/mann107/wallpapers
 
 #goes into directory once downloaded
 cd Wallpapers
